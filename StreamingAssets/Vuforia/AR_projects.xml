@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="elmarwan" size="0.200000 0.211225" />
+    <ImageTarget name="img3" size="0.100000 0.064104" />
+    <ImageTarget name="img2" size="0.100000 0.059271" />
+    <ImageTarget name="img1" size="0.100000 0.063616" />
+  </Tracking>
+</QCARConfig>
